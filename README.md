@@ -39,14 +39,14 @@ I'm a software engineer based in San Francisco, CA. I studied Mathematics–Comp
  
 **Languages:** TypeScript · JavaScript · Python · Java · HTML · CSS  
 **Frameworks & Libraries:** React.js · Node.js · Next.js · GraphQL  
-**Tools & Platforms:** Firebase · Railway · Docker · Git
+**Tools & Platforms:** Firebase · Railway · Docker · Git  
 **Databases:** PostgreSQL · MongoDB
  
 ---
  
 ## 👤 About Me
 
-- **Looking for work!** (Current)
+- 🔍 **Looking for work!** (Current)
 - 🚀 Student Accelerator, [**Computing Talent Initiative**](https://computingtalentinitiative.org/accelerate/) (2025–2026)
 - 🎓 B.S. Mathematics–Computer Science, UC San Diego (2025)
 - 🏫 Former Curriculum Member, [**CSforeach**](https://csforeach.org/) (2023-2025)
