@@ -42,5 +42,7 @@ I graduated from UC San Diego with a B.S. in Mathematics-Computer Science, and s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-newton--chung-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/newton-chung)
 [![Resume](https://img.shields.io/badge/Resume-PDF-D93025?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1v9HjDeEnvgrvokJm2I4yixymEb9EUu47/view?usp=sharing)
 
+#### Emails
+
 Work: newtonlychung@gmail.com
 Coding: newtonchung99@gmail.com
