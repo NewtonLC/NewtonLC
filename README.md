@@ -2,7 +2,7 @@
 
 > Product Builder Co-Op @ Velzee | Open Source Maintainer @ FreeCodeCamp Classroom
 
-I graduated from UC San Diego with a B.S. in Mathematics-Computer Science. Right now I'm building product at Velzee, maintaining FreeCodeCamp's Classroom project, and working a part-time job outside of tech. The co-op is fixed-term, so I'm actively looking for a full-time software engineering role. Interview and hiring timelines run long, so I'd rather start that process now than wait for the program to end. Longer term, I want to work on products that solve real problems for the people who use them.
+I graduated from UC San Diego with a B.S. in Mathematics-Computer Science, and since then I've worked in many SWE internships and Open Source projects. I'm currently a Product Builder Co-Op intern with Velzee and a maintainer for FreeCodeCamp's Classroom project, while working part-time on the side. I'm looking to land a full-time SWE role, building projects that solve real problems for their users!
 
 ---
 
