@@ -30,8 +30,6 @@ I graduated from UC San Diego with a B.S. in Mathematics-Computer Science, and s
 
 ---
 
-### GitHub Stats
-
 ![Newton's GitHub Stats](https://github-readme-stats-phi-nine-81.vercel.app/api?username=NewtonLC&show_icons=true&hide_border=true&theme=default)
 
 ---
